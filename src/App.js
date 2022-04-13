@@ -20,7 +20,6 @@ const App = () => {
                     <Map />
                 </Grid>
             </Grid>
-            <h1>Hello, World!</h1>
         </>
     );
 }
